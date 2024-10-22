@@ -2,7 +2,7 @@
 <h3 align="center">My name is Emre Uğur Akpınar, and I graduated from the Computer Engineering
  department at Çukurova University. I'm trying to become an expert in Backend Development and Software Testing.</h3>
 
--  I’m currently learning **.NET, Selenium**
+-  I’m currently learning **.NET, Selenium ,Cucumber, Appium, Postman**
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
